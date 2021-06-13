@@ -1,0 +1,19 @@
+.Card {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  text-align: center;
+  color: orangered;
+  align-content: center;
+  margin: 200px 200px 200px 200px;
+  border: 2px solid orangered;
+  background: white;
+}
+
+.images {
+  width: 200px;
+  height: 200px;
+}
+.Discribe {
+  border-top: 2px solid orangered;
+}

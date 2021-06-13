@@ -1,0 +1,11 @@
+.Card {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  text-align: center;
+  color: orangered;
+  align-content: center;
+  margin: 150px 340px 200px 30px;
+  border: 2px solid orangered;
+  background: white;
+}
